@@ -19,6 +19,8 @@
 ## Notes
 
 - Base Attachments = Attachments you will use for ANY weapon or armor
+- PVP = Better for Player vs Player
+- PVE = Better for Player vs Entity
 
 ## Weapon Mods
 
@@ -31,11 +33,14 @@
 
 - Enchantment:
 - Unique Attachment:
+  - Combo Hits
 
 ### Maces Mods
 
 - Enchantment:
 - Unique Attachment:
+  - Smash Cooldown (PVE)
+  - Mace Throw (PVP)
 
 ### Axes Mods
 
