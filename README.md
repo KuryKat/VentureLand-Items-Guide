@@ -1,10 +1,26 @@
 # VentureLand Items Guide
 
+- [VentureLand Items Guide](#ventureland-items-guide)
+  - [Notes](#notes)
+  - [Weapon Mods](#weapon-mods)
+    - [Swords Mods](#swords-mods)
+    - [Maces Mods](#maces-mods)
+    - [Axes Mods](#axes-mods)
+    - [Scythes Mods](#scythes-mods)
+    - [Daggers Mods](#daggers-mods)
+    - [Whips Mods](#whips-mods)
+    - [Wands Mods](#wands-mods)
+    - [Bows Mods](#bows-mods)
+  - [Armor Sets](#armor-sets)
+    - [Tank Set Mods](#tank-set-mods)
+    - [Power Set Mods](#power-set-mods)
+    - [Hybrid Set Mods](#hybrid-set-mods)
+
 ## Notes
 
 - Base Attachments = Attachments you will use for ANY weapon or armor
 
-## Weapon's mods
+## Weapon Mods
 
 - Base Attachments:
   - Damage to Mobs
