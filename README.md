@@ -112,3 +112,21 @@
     - Cooldown Reduction
   - Unique Attachment:
     - Life Steal
+
+### Hybrid Set Mods
+
+Since Hybrid armor can't use Unique Attachments, just add an extra Bonus (XP/Loot/Gold) Attachment (that's the price for higher stats)
+
+- Chestplate
+  - Enchantment:
+    - "Up to you":
+      - If you plan on getting low life:
+        - Revenge
+      - If you don't:
+        - OR:
+          - Reflect
+          - Frost Shield
+          - Fire Shield
+- Leggings
+  - Enchantment:
+    - Cooldown Reduction
