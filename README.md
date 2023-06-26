@@ -86,6 +86,7 @@
     - OR:
       - Damage Block
       - Absorb Rage
+      - Retaliate (PVP)
       - Life Steal ***(not commonly used)***
 
 - Leggings
@@ -95,6 +96,7 @@
     - OR:
       - Damage Block
       - Absorb Rage
+      - Retaliate (PVP)
       - Life Steal ***(not commonly used)***
 
 ### Power Set Mods
